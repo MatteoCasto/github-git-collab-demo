@@ -1,3 +1,5 @@
+// returns .... blablabla
+
 function subtract(a, b) {
   return a-b;
 }
